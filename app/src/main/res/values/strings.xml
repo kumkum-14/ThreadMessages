@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">CometChatDemo2</string>
+    <string name="app_message_id" translatable="false">app_message_id</string>
+    <string name="app_thread_title">Thread</string>
+    <string name="app_unblock_message">You have blocked this user. Unblock to continue the conversation.</string>
+    <string name="app_unblock_user">Unblock User</string>\
+
+
+</resources>
